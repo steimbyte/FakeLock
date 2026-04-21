@@ -1,0 +1,19 @@
+{
+  "name": "fakelock-ts",
+  "version": "2.0.0",
+  "description": "Modern system lock screen for Windows",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build && node -e \"require('fs').copyFileSync('overlay.html','dist/overlay.html')\"",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.0.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^6.0.0"
+  }
+}
