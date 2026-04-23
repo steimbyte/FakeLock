@@ -1,5 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
 
+> ⭐ If you find this useful, consider [supporting me on Ko-fi](https://ko-fi.com/steimerbyte)!
+
+
 # FakeLock
 
 A modern desktop privacy screen application with multi-monitor support and customizable overlays. Built with Tauri 2.x and TypeScript.
